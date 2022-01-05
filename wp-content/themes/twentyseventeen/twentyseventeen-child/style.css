@@ -1,0 +1,16 @@
+/*
+ Theme Name:     Twenty Seventeen Theme
+ Theme URI:      https://wordpress.org/themes/twentyseventeen/
+ Description:    Twenty Seventeen theme
+ Author:         Wordpress
+ Author URI:     https://wordpress.org/themes/twentyseventeen/
+ Template:       TwentySeventeen
+ Version:        2.8
+*/
+ 
+/* =Theme customization starts here
+------------------------------------------------------- */
+.site-title, .site-title a {
+  color: #FF0000;
+  opacity:1;
+}

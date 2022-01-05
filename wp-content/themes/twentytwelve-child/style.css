@@ -1,0 +1,17 @@
+/*
+ Theme Name:   Twenty Twelve Child
+ Description:  Detter er et child tema til twenty twelve
+ Author:       Adam Aldridge
+ Author URI:   
+ Template:     twentytwelve
+ Version:      
+ Text Domain:  Twentytwelve-Child
+*/
+
+@import url("../twentytwelve/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+body { 
+  background-color: red;
+}
